@@ -3,3 +3,4 @@ uvicorn
 pymysql
 facenet-pytorch
 Pillow
+python-multipart
